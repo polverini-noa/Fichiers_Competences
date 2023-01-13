@@ -1,0 +1,3 @@
+Il existe pleins de règles que j'ai du respecter pour créer des cartes SPC, comme par exemple les pi-charts (voir photo) ce sont des types
+de graphiques qui sont toujours construits sur la même base, la donnée étudié, la moyenne, et les limites de contrôles, il faut respecter ces valeurs
+et ne pas en oublier, de plus il existe aussi des règles sur la mise en forme (couleur taille etc...) des lignes.
