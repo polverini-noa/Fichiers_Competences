@@ -1,0 +1,3 @@
+Je n'ai pas trouvé de photos de fichier excel complexes, sur la photo le fichier est plûtot basique.
+Mais en entreprise les calculs que nous utilisant sont très complexe, exemples calculs de Moving Range, Ecart Type, Médiane, Moyenne
+UCL, UCL fixe, UCL mr fixe (limites) etc...
